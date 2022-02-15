@@ -4,7 +4,8 @@ Thanks for checking out my data analytics portfolio!
 
 I've included some past work while studying Data Analytics at Santa Clara University and work I'm currently focused on to advance my skills. Most of the projects I've done are in Python and R because of the comprehensive advanced statistic, data visualization, and ML functionality. When it comes to SQL, I've created an entire RDBMS for a sports memorabilia company that utlized many of the key SQL commands. I have various projects posted here and will be posting more as time allows. Please take a look and let me know what you think.
        
-As for details about me :raising_hand_man:: 
+
+As for details about me :raising_hand_man: 
 
 At the moment, I'm ecstatic to be making a career transition into Data Analytics!! Having been in various sales roles within my current industry for 10+ years, I'm ready to take on new challenges, build on a solid foundation of coding skills and contribute to a team however I can help out. Here are a few additional details:
 
