@@ -1,4 +1,4 @@
-### Hi , I’m Frank Shanahan.
+### Hi :wave:, I’m Frank Shanahan.
 
 Thanks for checking out my data analytics portfolio! 
 
