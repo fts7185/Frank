@@ -7,7 +7,7 @@ I've included some past work while studying Data Analytics at Santa Clara Univer
 
 As for details about me :raising_hand_man: 
 
-At the moment, I'm ecstatic to be making a career transition into Data Analytics!! Having been in various sales roles within my current industry for 10+ years, I'm ready to take on new challenges, build on a solid foundation of coding skills and contribute to a team however I can help out. Here are a few additional details:
+At the moment, I'm very excited to be making a career transition into Data Analytics!! Having spent 10+ years in various sales functions within the same industries, I'm ready to take on new challenge. I'm ecstatic to join a team, build on a solid foundation of coding skills and statistics, and make an impact in a new industry.
 
 - :eyes: I’m interested in transitioning my career into the data analytics field.
 - :bar_chart: I’m currently brushing up on my advanced Excel skills & learning Tableau
@@ -15,4 +15,4 @@ At the moment, I'm ecstatic to be making a career transition into Data Analytics
 - :man_cook: All of 2021 I ran a small weekend bakery specializing in artisan bread & English Muffins.
 - :runner: I'm big on running. I like to swim, bicycle, play frisbee golf, hike...but running is a constant in my exercise routine. 
 - :rofl: Fun Fact: When I was 12 I placed 3rd in a single ski slalom competition. Little known fact; there were 3 people in my age bracket. :laughing: 
-- :envelope_with_arrow: How to reach me fts7185@gmail.com. 
+- :envelope_with_arrow: Feel free to reach me at fts7185@gmail.com. 
